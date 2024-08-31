@@ -1,0 +1,1 @@
+console.log('Welcome to My Simple Web App!');
